@@ -1,6 +1,7 @@
+
 #  Sri Krishna Praneeth Gandhi Namburi
 
-# Father Name : Srihari
+# Father Name : N Srihari
 
 ## DOB = 14/03/2003
 
@@ -8,12 +9,12 @@
 
 ## Educational Details:
 
-10th class - narayana E M high school Tanuku in 2018   
-inter - Sasi junior college Tanuku in 2020
+- 10th class - narayana E M high school Tanuku in 2018   
+- inter - Sasi junior college Tanuku in 2020
 
 ## Engineering:
 
-**419780, Year:** CST,1st Year
+**Branch, Year:** CST,1st Year
 
 **Collage Name:** Sri Vasavi Engineering College
 
@@ -26,3 +27,5 @@ inter - Sasi junior college Tanuku in 2020
 
 Attended 2 Days Training Program On Source Code Management Using Git & GitHub Conducted by APSSDC at my College 
 
+# mail: praneethnamburi03@gmail.com
+# contact: 9032721505
