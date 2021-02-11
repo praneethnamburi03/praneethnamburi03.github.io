@@ -8,10 +8,12 @@
 
 ## Educational Details:
 
-10 th - narayana Tanuku in 2018   
-inter - Sasi Tanuku in 2020
+10th class - narayana E M high school Tanuku in 2018   
+inter - Sasi junior college Tanuku in 2020
 
-**Branch, Year:** CST,1st Year
+## Engineering:
+
+**419780, Year:** CST,1st Year
 
 **Collage Name:** Sri Vasavi Engineering College
 
