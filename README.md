@@ -9,10 +9,12 @@
 
 ## Educational Details:
 
-- 10th class - narayana E M high school Tanuku in 2018   
-- inter - Sasi junior college Tanuku in 2020
+### 10th class:
+ narayana E M high school Tanuku in 2018   
+### inter:
+ Sasi junior college Tanuku in 2020
 
-## Engineering:
+### Engineering:
 
 **Branch, Year:** CST,1st Year
 
@@ -27,5 +29,9 @@
 
 Attended 2 Days Training Program On Source Code Management Using Git & GitHub Conducted by APSSDC at my College 
 
-# mail: praneethnamburi03@gmail.com
-# contact: 9032721505
+## mail: praneethnamburi03@gmail.com
+## contact: 9032721505
+#### hobbies: 
+- Watching TV
+- playing games
+
