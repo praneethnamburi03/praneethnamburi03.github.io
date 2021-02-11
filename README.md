@@ -8,7 +8,7 @@
 
 ## Educational Details:
 
-10 th - narayana Tanuku in 2018
+10 th - narayana Tanuku in 2018   
 inter - Sasi Tanuku in 2020
 
 **Branch, Year:** CST,1st Year
