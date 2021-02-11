@@ -2,9 +2,9 @@
 
 ## Educational Details:
 
-**Branch, Year: **CST,1st Year
+**Branch, Year:** CST,1st Year
 
-**Collage Name:**Sri Vasavi Engineering College
+**Collage Name:** Sri Vasavi Engineering College
 
 ## Skills:
 
