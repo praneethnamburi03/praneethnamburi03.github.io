@@ -1,5 +1,7 @@
 #  Sri Krishna Praneeth Gandhi Namburi
 
+# Father Name Srihari
+
 ## Educational Details:
 
 **Branch, Year:** CST,1st Year
@@ -14,3 +16,4 @@
 ## Certifications:
 
 Attended 2 Days Training Program On Source Code Management Using Git & GitHub Conducted by APSSDC at my College 
+
