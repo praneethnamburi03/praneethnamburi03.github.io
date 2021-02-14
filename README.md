@@ -1,9 +1,9 @@
 
-#  Sri Krishna Praneeth Gandhi Namburi
+## Sri Krishna Praneeth Gandhi Namburi
 
-# Father Name : N Srihari
+## Father Name : N Srihari
 
-## DOB = 14/03/2003
+### DOB = 14/03/2003
 
 ### Area : Tanuku
 
@@ -12,11 +12,12 @@
 ### 10th class:
  narayana E M high school Tanuku in 2018   
 ### inter:
+**Branch:** MPC                              
  Sasi junior college Tanuku in 2020
 
 ### Engineering:
 
-**Branch, Year:** CST,1st Year
+**Branch:** CST
 
 **Collage Name:** Sri Vasavi Engineering College
 
