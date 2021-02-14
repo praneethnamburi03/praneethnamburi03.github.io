@@ -1,5 +1,5 @@
 
-## Sri Krishna Praneeth Gandhi Namburi
+# Sri Krishna Praneeth Gandhi Namburi
 
 ## Father Name : N Srihari
 
@@ -7,7 +7,7 @@
 
 ### Area : Tanuku
 
-## Educational Details:
+### Educational Details:
 
 ### 10th class:
  narayana E M high school Tanuku in 2018   
