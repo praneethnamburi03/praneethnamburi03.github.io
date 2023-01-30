@@ -33,7 +33,7 @@
 Attended 2 Days Training Program On Source Code Management Using Git & GitHub Conducted by APSSDC at my College 
 
 ## mail: praneethnamburi03@gmail.com
-## contact: 9032721505
+## contact: +91 9032721505
 #### hobbies: 
 - Watching TV
 - playing games
